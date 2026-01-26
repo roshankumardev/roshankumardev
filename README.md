@@ -2,7 +2,7 @@
 
 ###
 
-My name is **Roshan** and I'm a **Frontend Developer**, from **New Delhi, India**
+My name is **Roshan** and I'm a **Software Developer**, from **New Delhi, India**
 
 ![git_profile](https://github.com/developerroshank/developerroshank/assets/127415063/653023dd-da3a-44e5-8ab5-7364ec4aa8ae)
 
@@ -33,7 +33,7 @@ This is my [Portfolio Website](https://www.roshandev.space/)
    **mern stack developement, frontend developement, I am happy to help**;
 
 📫 *How to reach me* <br>
-   **developerroshank@gmail.com**;
+   **roshan.kumr010@gmail.com**;
 
 ⚡ *Fun fact* <br>
    Learning New Things
