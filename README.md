@@ -4,7 +4,7 @@
 
 My name is **Roshan** and I'm a **Software Developer**, from **New Delhi, India**
 
-![git_profile](https://github.com/developerroshank/developerroshank/assets/127415063/653023dd-da3a-44e5-8ab5-7364ec4aa8ae)
+![git_profile](https://github.com/rooshankumardev/roshankumardev/assets/127415063/653023dd-da3a-44e5-8ab5-7364ec4aa8ae)
 
 This is my [Portfolio Website](https://www.roshandev.space/)
 
@@ -108,7 +108,7 @@ This is my [Portfolio Website](https://www.roshandev.space/)
 
 ###
 
-<img src="https://raw.githubusercontent.com/developerroshank/developerroshank/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/roshankumardev/roshankumardev/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -117,20 +117,20 @@ This is my [Portfolio Website](https://www.roshandev.space/)
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerroshank&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshankumardev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developerroshank&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshankumardev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=developerroshank&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=roshankumardev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   
-  <img src="https://github-profile-trophy.vercel.app?username=developerroshank&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developerroshank&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=roshankumardev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumardev&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developerroshank&label=Profile%20views&color=0e75b6&style=flat" alt="developerroshank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumardev&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumardev" /> </p>
 
 ###
