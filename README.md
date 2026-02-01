@@ -4,7 +4,7 @@
 
 My name is **Roshan** and I'm a **Software Developer**, from **New Delhi, India**
 
-![git_profile](https://github.com/rooshankumardev/roshankumardev/assets/127415063/653023dd-da3a-44e5-8ab5-7364ec4aa8ae)
+![git_profile](https://github.com/roshankumardev/roshankumardev/assets/127415063/653023dd-da3a-44e5-8ab5-7364ec4aa8ae)
 
 This is my [Portfolio Website](https://www.roshandev.space/)
 
