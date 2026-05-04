@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 &lt;Coder's/&gt; </h1>
+<h1 align="left">Hey 👋 I'm Roshan — Full Stack Developer</h1>
 
 ###
 
-My name is **Roshan** and I'm a **Software Developer**, from **New Delhi, India**
+My name is **Roshan** and I'm a **Full Stack (MERN) Developer**, from **New Delhi, India**
 
 ![git_profile](https://github.com/roshankumardev/roshankumardev/assets/127415063/653023dd-da3a-44e5-8ab5-7364ec4aa8ae)
 
-This is my [Portfolio Website](https://www.roshandev.space/)
+🌐 Portfolio: [roshandev.space](https://www.roshandev.space/)
 
 ###
 
@@ -14,29 +14,28 @@ This is my [Portfolio Website](https://www.roshandev.space/)
 
 ###
 
-✨ *Creating bugs since* <br>
-    **2023**
-    
-🔭 *I’m currently working on* <br>
-   **MERN Full Stack Projects**;
+🚀 *Building production-grade web applications since* **2023**
 
-👯 *I’m looking to collaborate on* <br>
-   **SASS Platform Using MERN**;
+🔭 *Currently working on* <br>
+   **MERN Full Stack Projects** — scalable, real-world applications;
 
-🌱 *I’m currently learning* <br>
-   **ReactJS, NextJs, Node Js & Express.js, and MongoDB**;
+👯 *Open to collaborate on* <br>
+   **SaaS platforms and Open Source projects using MERN stack**;
 
-🤝 *I’m looking for help with* <br>
-   **Data Structures and Algorithms**;
+🌱 *Currently deepening expertise in* <br>
+   **Next.js, TypeScript, System Design, and Advanced DSA**;
+
+🤝 *Looking to grow in* <br>
+   **System Design, Data Structures & Algorithms, and Cloud Deployment**;
 
 💬 *Ask me about* <br>
-   **mern stack developement, frontend developement, I am happy to help**;
+   **MERN stack development, REST APIs, React performance optimization — happy to help!**;
 
 📫 *How to reach me* <br>
    **roshan.kumr010@gmail.com**;
 
 ⚡ *Fun fact* <br>
-   Learning New Things
+   I turn coffee ☕ into clean, maintainable code
 
 ###
 
@@ -103,6 +102,16 @@ This is my [Portfolio Website](https://www.roshandev.space/)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
    <img width="12" />
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40"/>
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
    <img width="12" />
 </div>
 
